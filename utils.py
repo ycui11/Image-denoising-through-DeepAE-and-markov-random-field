@@ -1,15 +1,4 @@
 
-#########################################################################################################################
-# Author: Safa Messaoud                                                                                                 #
-# E-Mail: messaou2@illinois.edu                                                                                         #
-# Instituation: University of Illinois at Urbana-Champaign                                                              #
-# Course: ECE 544_na Fall 2017                                                                                          #
-# Date: July 2017                                                                                                       #
-#                                                                                                                       #
-# Description: this script contains helper functions:                                                                   #
-#            batch_norm : batch normalization                                                                           #
-#            add_noise  : injecting noise into a batch                                                                  #
-#########################################################################################################################
 
 
 import numpy as np
