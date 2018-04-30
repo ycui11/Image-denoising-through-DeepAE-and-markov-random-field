@@ -1,14 +1,3 @@
-#########################################################################################################################
-# Author: Safa Messaoud                                                                                                 #
-# E-Mail: messaou2@illinois.edu                                                                                         #
-# Instituation: University of Illinois at Urbana-Champaign  															#
-# Course: ECE 544_na Fall 2017                                                            								#
-# Date: July 2017                                                                                                   	#
-#                                                                                                                       #
-# Description: 																											#
-#	Script containg the configuration of the Denoising Autoencoder Model 												#
-#																														#
-#########################################################################################################################
 
 
 
